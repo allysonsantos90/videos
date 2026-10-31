@@ -21,3 +21,7 @@ FREE HOSTING OPTIONS
 - Cloudflare Pages: https://pages.cloudflare.com/
 
 This is a static website starter. It does not include a booking backend or contact-form service.
+
+
+YOUTUBE PLAYLIST EMBED
+The Craig & Sophie section now embeds the YouTube playlist directly in the website using the playlist ID PLRB-UZtx63s8. Visitors can watch the videos without leaving the site. YouTube may still show its own playback controls, branding, or ads depending on viewer/account and video settings.
