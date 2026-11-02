@@ -1,12 +1,21 @@
-# AS Visual Stories — Prototype 01
+# AS Visual Stories — Prototype 02
 
-Open `index.html` in a browser. Internet is required for remote placeholder images and Google Fonts.
+## Preview
+Open `index.html` in a browser. Internet access is required for remote image assets, Google Fonts, and YouTube embeds.
 
-Includes:
-- Full-height split-screen homepage
-- Two entry points: Cinematic Stories / Wedding & Event Films
-- English / Portuguese text toggle
-- Responsive mobile layout
-- Subtle image hover animation
+## Pages
+- `index.html` — split-screen home + About section below the split
+- `cinematic-stories.html` — under-construction message + Instagram profile CTA
+- `wedding-event-films.html` — service overview, process, and four embedded Craig & Sophie YouTube videos
+- `about.html` — shared personal introduction
+- `assets/site.css` — shared visual system and responsive styles
+- `assets/site.js` — EN/PT selector with saved language preference
 
-Next: build the two portfolio sections, add real project videos, replace placeholder imagery, and confirm contact/social details.
+## Instagram integration note
+Instagram's public profile URL is linked. To embed actual Instagram Reels inside the page, add the individual public Reel/post URLs to the site. This prototype intentionally does not pretend a full Instagram profile feed can be embedded reliably without individual post URLs or an authorized feed provider.
+
+## Replace before launch
+- Replace the About portrait placeholder with Allyson's chosen photo.
+- Replace placeholder Unsplash images with original footage stills.
+- Confirm professional email and social links.
+- Add the selected Instagram Reel URLs.
